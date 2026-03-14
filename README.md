@@ -1,7 +1,7 @@
 # 🍔 Análise Nutricional: McDonald's Índia
 
 Este projeto apresenta uma Análise Exploratória de Dados (EDA) sobre o valor nutricional dos itens do menu do McDonald's na Índia. O objetivo é entender a composição de calorias, gorduras, açúcares e proteínas entre as diferentes categorias de produtos.
-📊 Sobre o Dataset
+# 📊 Sobre o Dataset
 
 O dataset contém informações detalhadas de mais de 140 itens, incluindo:
 
