@@ -1,4 +1,4 @@
-🍔 Análise Nutricional: McDonald's Índia
+# 🍔 Análise Nutricional: McDonald's Índia
 
 Este projeto apresenta uma Análise Exploratória de Dados (EDA) sobre o valor nutricional dos itens do menu do McDonald's na Índia. O objetivo é entender a composição de calorias, gorduras, açúcares e proteínas entre as diferentes categorias de produtos.
 📊 Sobre o Dataset
@@ -12,7 +12,7 @@ O dataset contém informações detalhadas de mais de 140 itens, incluindo:
 - Dataset: https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
 
 
-🔍 Principais Insights da Análise
+# 🔍 Principais Insights da Análise
 
 Abaixo, listo alguns exemplos do que você pode ter encontrado (ajuste com seus resultados reais):
 
@@ -20,7 +20,7 @@ Abaixo, listo alguns exemplos do que você pode ter encontrado (ajuste com seus 
 
 - Sódio: Qual categoria apresenta os níveis mais alarmantes de sódio?.
 
-🛠️ Ferramentas Utilizadas
+# 🛠️ Ferramentas Utilizadas
 
 - Linguagem: Python
 
@@ -30,7 +30,7 @@ Abaixo, listo alguns exemplos do que você pode ter encontrado (ajuste com seus 
 
 - Ambiente: Google Colab
 
-📈 Exemplos de Visualizações
+# 📈 Exemplos de Visualizações
 
 <img src="Categoria x Quantidade.png" alt="">
 <img src="Itens com maior quantidade de sódio.png" alt="">
