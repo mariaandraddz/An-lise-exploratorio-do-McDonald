@@ -32,5 +32,6 @@ Abaixo, listo alguns exemplos do que você pode ter encontrado (ajuste com seus 
 
 📈 Exemplos de Visualizações
 
-<img src="Categoria x Quantidade.png" alt="Texto Alternativo">
+<img src="Categoria x Quantidade.png" alt="">
+<img src="Itens com maior quantidade de sódio.png" alt="">
 
