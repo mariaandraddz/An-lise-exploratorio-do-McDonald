@@ -5,29 +5,30 @@ Este projeto apresenta uma Análise Exploratória de Dados (EDA) sobre o valor n
 
 O dataset contém informações detalhadas de mais de 140 itens, incluindo:
 
-    Categorias: Regular Menu, Breakfast, McCafe, Desserts, etc.
+- Categorias: Regular Menu, Breakfast, McCafe, Desserts, etc.
 
-    Métricas: Energia (kCal), Proteínas, Gorduras Totais, Colesterol, Carboidratos, Açúcares e Sódio.
+- Métricas: Energia (kCal), Proteínas, Gorduras Totais, Colesterol, Carboidratos, Açúcares e Sódio.
 
-    Origem: Kaggle - McDonald's India Menu Nutrition Facts
+- Dataset: https://www.kaggle.com/datasets/deepcontractor/mcdonalds-india-menu-nutrition-facts
+
 
 🔍 Principais Insights da Análise
 
 Abaixo, listo alguns exemplos do que você pode ter encontrado (ajuste com seus resultados reais):
 
-    Item mais calórico: O Chicken Maharaja Mac ou o Veg Maharaja Mac lideram o ranking de calorias?
+- Qual é o item de maior qunatidade?
 
-    Sódio: Qual categoria apresenta os níveis mais alarmantes de sódio?.
+- Sódio: Qual categoria apresenta os níveis mais alarmantes de sódio?.
 
 🛠️ Ferramentas Utilizadas
 
-    Linguagem: Python
+- Linguagem: Python
 
-    Bibliotecas de Manipulação: Pandas
+- Bibliotecas de Manipulação: Pandas
 
-    Bibliotecas de Visualização: Matplotlib e Seaborn
+- Bibliotecas de Visualização: Matplotlib e Seaborn
 
-    Ambiente: Google Colab
+- Ambiente: Google Colab
 
 📈 Exemplos de Visualizações
 
